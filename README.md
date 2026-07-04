@@ -442,7 +442,7 @@ See [LICENSE](LICENSE) for details.
 
 <br/>
 
-**Built with 💙 by [Anbuselvan T](https://github.com/Anbu-2006) & [Navin](https://github.com/navin18-cmd)**
+
 
 *The Open Intelligence Layer for ARGO Ocean Data* 🌊
 
